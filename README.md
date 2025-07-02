@@ -36,5 +36,8 @@ Understand layout structuring using Flexbox.
 
 Implement real-like UI with background overlays and video previews.
 
+---
+
 👨‍💻 Author
+
 Vinay 
